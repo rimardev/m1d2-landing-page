@@ -1,0 +1,32 @@
+.header {
+  height: 20em;
+  background-image: url(../imgs/header3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.header h1 {
+  margin: 0em;
+}
+.products {
+  width: 80%;
+  margin: auto;
+}
+.products td {
+  width: 50%;
+  
+}
+.products img {
+  width: 100%;
+}
+.footer {
+  height: 6em;
+  background-color: rgb(41, 35, 35);
+  color: white;
+}
+.footer table {
+  width: 80%;
+  margin: auto;
+}
+.footer td {
+  width: 30%;
+}
