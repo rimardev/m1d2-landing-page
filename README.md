@@ -1,5 +1,7 @@
 Modulo1 - Desafio2
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
 ### LANDING PAGE.
 Se realizar un landing page con el concepto o idea de venta de Perfumes.
 
