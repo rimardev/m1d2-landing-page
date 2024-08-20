@@ -13,3 +13,6 @@ textos descriptivos de acompañamiento.
 
 - Se carga el CSS de un archivo CSS externo, desde la subcarpeta
 css dentro de la subcarpeta assets.
+
+
+![screenshot](https://github.com/rimardev/m1d2-landing-page/blob/main/assets/imgs/screenshot.jpg)
